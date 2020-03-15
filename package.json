@@ -1,0 +1,15 @@
+{
+  "name": "threejs-sandbox",
+  "version": "1.0.0",
+  "description": "ThreeJS Sandbox",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "js": "^0.1.0",
+    "parcel": "^1.12.4",
+    "three": "^0.114.0"
+  }
+}
